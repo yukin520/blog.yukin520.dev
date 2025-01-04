@@ -1,13 +1,13 @@
-# blog.yuki0520.dev 📚
+# blog.yukin520.dev 📚
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![GitHub](https://img.shields.io/github/license/yukin520/blog.yuki0520.dev?color=%232F3741&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/yukin520/blog.yukin520.dev?color=%232F3741&style=for-the-badge)
 
 
-`blog.yuki0520.dev` is a my personal blog based by [AstroPaper](https://github.com/satnaing/astro-paper) .  
+`blog.yukin520.dev` is a my personal blog based by [AstroPaper](https://github.com/satnaing/astro-paper) .  
 Astro and Tailwind CSS is used for development and deployed on the Cloudflare pages.
 
 
@@ -69,10 +69,10 @@ You can start using this project locally by running the following command in you
 
 ```bash
 # clone this repository.
-git clone https://github.com/yukin520/blog.yuki0520.dev.git
+git clone https://github.com/yukin520/blog.yukin520.dev.git
 
 # move to the cloned local repository.
-cd blog.yuki0520.dev
+cd blog.yukin520.dev
 ```
 
 
