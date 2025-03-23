@@ -2,7 +2,7 @@
 title: Hello World!!
 author: yukin520
 pubDatetime: 2025-03-08T05:17:19Z
-slug: hello-world
+slug: 01_hello-world
 featured: false
 draft: false
 tags: []
